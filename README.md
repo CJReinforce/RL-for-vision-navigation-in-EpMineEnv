@@ -1,7 +1,6 @@
 <h1><center>RL in Vision Navigation</center></h1>
 
 <center><b>RL大作业：EpMine环境下"视觉导航"任务中的强化学习部分的代码</b></center>
-<center><b>Readme author: 程杰</b></center>
 
 # 环境版本
 
