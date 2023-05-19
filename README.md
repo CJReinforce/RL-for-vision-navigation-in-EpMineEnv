@@ -97,6 +97,8 @@ python train_ppo_consecutive_frame.py
 python eval_policy_consecutive_frame.py
 ```
 
+https://github.com/CJReinforce/RL-for-vision-navigation-in-EpMineEnv/assets/51627740/49049671-4b4f-4227-aa41-8095b9e15660
+
 ---
 
 **反思：固定初始化的环境，其训练结果大概率存在过拟合现象，或者可能仅是记住了固定的一条路。因此测试的结果并不能说明智能体已经学会了导航任务，所以需要在随机初始化的环境中继续实验。**
@@ -163,3 +165,4 @@ python train_ppo.py
 python eval_policy.py
 ```
 
+https://github.com/CJReinforce/RL-for-vision-navigation-in-EpMineEnv/assets/51627740/41bfe2bf-6163-42be-adce-859335313586
